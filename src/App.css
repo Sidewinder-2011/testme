@@ -1,0 +1,6 @@
+.main-box{
+    display:flex;
+}
+.focused{
+    box-shadow: 5px 5px 40px red;
+}
